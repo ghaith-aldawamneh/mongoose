@@ -1,7 +1,12 @@
 # Node server, Mongo & Mongoose
 
 ========================================
+basics every one should know:
 
+  - mongoose stored data types (String,Number,Date,Buffer,Boolean,Mixed,ObjectId,Array,Decimal128,Map,Schema)
+  - using the default to set the default value
+  - 
+  
 ![GitHub package.json version][gh-pack-json-v] ![Package.json express version][gh-pack-json-dep-v-express] ![Package.json mongodb version][gh-pack-json-dep-v-mongodb] ![Package.json mongoose version][gh-pack-json-dep-v-mongoose] ![GitHub language count][language-count-bdg] ![GitHub top language][top-language-bdg] ![GitHub repo size][repo-size-bdg] ![GitHub code size in bytes][code-size-bdg] ![Last commit][last-commit-bdg] [![Website][website-bdg]][website] [![MIT License][license-bdg]][license] [![Twitter Follow][twitter-bdg]][twitter]
 
 [![Workflow badge][workflow-bdg]][glitch-workflow] [![PRs Welcome][prs-bdg]][prs-site]
